@@ -21,3 +21,5 @@ All below values can be changed in the config.yml -
 3rd player kill - Inventories are no longer linked.
 4th(final) player kill - Players become unlinked, and therefore do not have linked damage intakes.
 If players die 5 times while linked, they are banned from the server.
+
+If you have any suggestions or bugs that need to be fixed, please put it in the issues tab at the top left with the proper Label.
