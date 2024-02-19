@@ -12,7 +12,8 @@ Silly little Minecraft paper plugin for linking player's xp, potion effects, inv
   (online or offline, accessible by any player)
 /setlinklevel
   to set the level, or how many "kills" the linked players have.
-  
+  (online or offline, only accessible by opped players)
+
 All below values can be changed in the config.yml -
 
 1st player kill - Experience is no longer linked.
