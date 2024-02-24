@@ -1,0 +1,36 @@
+#Link choices
+  #If dying too much bans you
+Death Ban On: true
+  #How many deaths make a ban
+Death Limit: 5
+
+  #If they can be freed by kills
+Freed by kills: true
+  #How many kills they need to get to be freed
+Kills to freedom: 4
+
+  #If players will have their xp linked
+XP Linking On: true
+  #How many kills to unlink levels
+Kills to xp: 1
+
+  #If players will have their food linked
+Food Linking On: true
+  #How many kills to unlink food
+Kills to food: 1
+
+  #If players will have their potion effects linked
+Potion Linking On: true
+  #How many kills to unlink potion effects
+Kills to potion: 2
+
+  #If player inventories are linked
+Inventory Linking On: true
+  #How many kills to unlink inventories
+Kills to inventory: 3
+
+  #If damage taken is linked
+Damage Linking On: true
+  #How many kills to unlink damage taken
+Kills to hp: 4
+    #Made by WizarTheGreat
