@@ -23,6 +23,8 @@ to check how many kills until you are freed<br />
 /deathvalue<br />
 to check how many deaths until you are banned<br />
 
+To have permanent linking, just turn off kills to be freed in the config!
+
 ### Configuration<br />
 ```
 #Link choices
